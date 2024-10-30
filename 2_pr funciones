@@ -1,8 +1,0 @@
-#practicando funciones
-print("Valdez Leal Angel Adrian-1350-3W")
-print(" ")
-
-def my_fuction():
-    print("Angel"  +" " "adrian")
-    print("programacio" + "=" "10")
-my_fuction()
